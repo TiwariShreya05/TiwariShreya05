@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Shreya Tiwari 👋
 
-<!--
-**TiwariShreya05/TiwariShreya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Machine Learning
+📍 Manipal University Jaipur
 
-Here are some ideas to get you started:
+💡 I am passionate about building intelligent systems using Machine Learning and exploring how AI can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+**Programming:**
+Python, C
+
+**Machine Learning / AI:**
+TensorFlow, PyTorch, Machine Learning
+
+**Web Technologies:**
+HTML, CSS, JavaScript
+
+**Tools:**
+Git, GitHub, Jupyter Notebook, Google Colab
+
+---
+
+## 📌 Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Data-driven applications
+* Emerging technologies
+
+---
+
+## 📂 Projects
+
+Here are some projects I’m working on:
+
+• Neural Network Implementation
+• Machine Learning Models
+• AI-based Applications
+
+---
+
+## 📫 Connect with me
+
+LinkedIn: https://linkedin.com
+GitHub: https://github.com
+
+---
+
+⭐ Always learning and building new things
