@@ -10,7 +10,7 @@
 ## 🚀 Skills
 
 **Programming:**
-Python, C
+Python, C, SQL
 
 **Machine Learning / AI:**
 TensorFlow, PyTorch, Machine Learning
