@@ -29,6 +29,7 @@ Git, GitHub, Jupyter Notebook, Google Colab
 * Machine Learning
 * Data-driven applications
 * Emerging technologies
+* Deep Learning
 
 ---
 
