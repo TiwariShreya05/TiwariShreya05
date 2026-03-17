@@ -45,8 +45,8 @@ Here are some projects I’m working on:
 
 ## 📫 Connect with me
 
-LinkedIn: https://linkedin.com
-GitHub: https://github.com
+LinkedIn: https://www.linkedin.com/in/shreya-tiwari-520b692b3/
+GitHub: https://github.com/TiwariShreya05
 
 ---
 
