@@ -9,14 +9,13 @@
 
 ## 🚀 Skills
 
-**Programming:**
-Python, C, SQL
+Languages: Python · JavaScript · C · SQL
 
-**Machine Learning / AI:**
-TensorFlow, PyTorch, Machine Learning, Deep Learning
+ML / DL: TensorFlow · Keras · PyTorch · scikit-learn · pandas · NumPy
 
-**Web Technologies:**
-HTML, CSS, JavaScript
+Web: HTML · CSS · JavaScript · Streamlit
+
+Tools: Git · GitHub · Jupyter Notebook · Google Colab
 
 **Tools:**
 Git, GitHub, Jupyter Notebook, Google Colab
