@@ -3,8 +3,8 @@
 🎓 B.Tech Student in Artificial Intelligence & Machine Learning
 📍 Manipal University Jaipur
 
-About me
-I'm an AI/ML student passionate about building intelligent systems that solve real-world problems. I enjoy working across the full stack — from training neural networks to deploying interactive web apps. Currently focused on deepening my knowledge in deep learning and recommendation systems.
+AI/ML Student | Python & Machine Learning | Building intelligent systems and learning new technologies
+
 ---
 
 ## 🚀 Skills
