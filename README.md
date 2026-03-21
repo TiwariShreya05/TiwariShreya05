@@ -1,6 +1,7 @@
 Hi, I'm Shreya Tiwari 👋
 
 🎓 B.Tech (AI & ML) @ Manipal University Jaipur
+
 💡 AI/ML Enthusiast | Python | Building intelligent systems
 
 🚀 Skills
