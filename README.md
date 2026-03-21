@@ -13,7 +13,7 @@
 Python, C, SQL
 
 **Machine Learning / AI:**
-TensorFlow, PyTorch, Machine Learning
+TensorFlow, PyTorch, Machine Learning, Deep Learning
 
 **Web Technologies:**
 HTML, CSS, JavaScript
