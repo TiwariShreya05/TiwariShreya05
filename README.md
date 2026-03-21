@@ -17,9 +17,6 @@ Web: HTML · CSS · JavaScript · Streamlit
 
 Tools: Git · GitHub · Jupyter Notebook · Google Colab
 
-**Tools:**
-Git, GitHub, Jupyter Notebook, Google Colab
-
 ---
 
 ## 📌 Interests
