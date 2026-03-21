@@ -7,8 +7,11 @@ Hi, I'm Shreya Tiwari 👋
 🚀 Skills
 
 Languages: Python · JavaScript · C · SQL
+
 ML/DL: TensorFlow · PyTorch · scikit-learn
+
 Web: HTML · CSS · JavaScript · Streamlit
+
 Tools: Git · GitHub · Jupyter · Colab
 
 📂 Projects
