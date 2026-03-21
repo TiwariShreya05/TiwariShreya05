@@ -4,9 +4,7 @@
 📍 Manipal University Jaipur
 
 AI/ML Student | Python & Machine Learning | Building intelligent systems and learning new technologies
-
 ---
-
 ## 🚀 Skills
 
 Languages: Python · JavaScript · C · SQL
