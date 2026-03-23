@@ -17,7 +17,9 @@ Tools: Git · GitHub · Jupyter · Colab
 📂 Projects
 
 • Neural Network Models
+
 • Machine Learning Applications
+
 • AI-based Systems
 
 📫 Connect
