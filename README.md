@@ -7,8 +7,11 @@ B.Tech student in AI & ML — building intelligent systems and exploring the int
 ## 🚀 Skills
 
 **Languages** — Python · JavaScript · C · SQL  
-**ML / DL** — TensorFlow · PyTorch · scikit-learn  
+
+**ML / DL** — TensorFlow · PyTorch · scikit-learn 
+
 **Web** — HTML · CSS · JavaScript · Streamlit  
+
 **Tools** — Git · GitHub · Jupyter · Google Colab  
 
 ---
@@ -29,7 +32,9 @@ B.Tech student in AI & ML — building intelligent systems and exploring the int
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shreya--tiwari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shreya-tiwari-520b692b3/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-TiwariShreya05-black?style=flat-square&logo=github)](https://github.com/TiwariShreya05)
+
 [![Email](https://img.shields.io/badge/Email-shreyatiwari0801@gmail.com-red?style=flat-square&logo=gmail)](mailto:shreyatiwari0801@gmail.com)
 
 ---
