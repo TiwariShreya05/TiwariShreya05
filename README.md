@@ -31,11 +31,13 @@ B.Tech student in AI & ML — building intelligent systems and exploring the int
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shreya--tiwari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shreya-tiwari-520b692b3/)
+## 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-TiwariShreya05-black?style=flat-square&logo=github)](https://github.com/TiwariShreya05)
-
-[![Email](https://img.shields.io/badge/Email-shreyatiwari0801@gmail.com-red?style=flat-square&logo=gmail)](mailto:shreyatiwari0801@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/shreya-tiwari-520b692b3](https://www.linkedin.com/in/shreya-tiwari-520b692b3/)
+  
+- 🐙 GitHub: [github.com/TiwariShreya05](https://github.com/TiwariShreya05)
+  
+- 📧 Email: shreyatiwari0801@gmail.com
 
 ---
 
