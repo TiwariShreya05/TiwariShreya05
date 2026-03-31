@@ -8,7 +8,7 @@ B.Tech student in AI & ML — building intelligent systems and exploring the int
 
 **Languages** — Python · JavaScript · C · SQL  
 
-**ML / DL** — TensorFlow · PyTorch · scikit-learn 
+**ML / DL** — TensorFlow · PyTorch · scikit-learn    
 
 **Web** — HTML · CSS · JavaScript · Streamlit  
 
