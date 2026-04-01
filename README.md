@@ -4,7 +4,7 @@ B.Tech student in AI & ML — building intelligent systems and exploring the int
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills    
 
 **Languages** — Python · JavaScript · C · SQL    
 
