@@ -3,7 +3,7 @@
 B.Tech student in AI & ML — building intelligent systems and exploring the intersection of machine learning and real-world applications.
 
 ---
- 
+    
 ## 🚀 Skills       
 
 **Languages** — Python · JavaScript · C · SQL    
