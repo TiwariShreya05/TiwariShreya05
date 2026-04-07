@@ -1,6 +1,6 @@
 # Hi, I'm Shreya Tiwari 👋
 
-B.Tech student in AI & ML — building intelligent systems and exploring the intersection of machine learning and real-world application.
+B.Tech student in AI & ML — building intelligent systems and exploring the intersection of machine learning and real-world applications.
 
 ---
     
