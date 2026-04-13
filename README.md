@@ -6,7 +6,7 @@ B.Tech student in AI & ML — building intelligent systems and exploring the int
     
 ## 🚀 Skills       
    
-**Languages** — Python · JavaScript · C · SQL    
+**Languages** — Python · JavaScript · C · SQL       
 
 **ML / DL** — TensorFlow · PyTorch · scikit-learn    
 
