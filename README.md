@@ -27,7 +27,7 @@ B.Tech student in AI & ML — building intelligent systems and exploring the int
 | [📱 Instagram Clone](https://tiwarishreya05.github.io/InstaClone/) | Frontend replica of Instagram with auth and feed | HTML · CSS · JavaScript |
 | [🌦️ Weather App](https://tiwarishreya05.github.io/WheatherApp/) | Real-time weather data via OpenWeather API | HTML · CSS · JavaScript · REST API |
 ---
-
+ 
 ## 📫 Connect
 
 - 💼 LinkedIn: [linkedin.com/in/shreya-tiwari-520b692b3](https://www.linkedin.com/in/shreya-tiwari-520b692b3/)
