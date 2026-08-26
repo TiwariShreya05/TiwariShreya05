@@ -1,6 +1,7 @@
 # Hi, I'm Shreya Tiwari 👋
 
-AI Engineer building intelligent systems at **Netweb Technologies** — exploring the intersection of machine learning, retrieval-augmented generation, and real-world healthcare applications.
+AI/ML Engineer passionate about building intelligent systems and turning ideas into meaningful, real-world solutions. Exploring the possibilities of AI and continuously learning, experimenting, and building along the way.
+
 
 ---
 
